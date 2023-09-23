@@ -1,8 +1,9 @@
 # gemu-benkyou
 
+# Table of Contents
 
-
-
+## Extras
+[Research](extras/research.md)
 
 
 
