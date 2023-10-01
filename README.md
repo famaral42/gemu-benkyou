@@ -3,8 +3,9 @@
 # Table of Contents
 
 ## Extras
-[Research](extras/research.md)
 
+- [Courses](extras/courses.md)
+- [Research](extras/research.md)
 
 
 # License
