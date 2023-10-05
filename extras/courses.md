@@ -6,7 +6,7 @@
 |:money_with_wings:| Paid    | `:money_with_wings:` |
 
 ---
-# Lua - Love2D
+# <img src="https://love2d.org/w/images/6/68/love-app-0.10.png" height="48"> Lua - Love2D
 
 - :scotland: [FreeCodeCamp CS50 playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz)
   - Repositories on [github](https://github.com/orgs/games50/repositories)
@@ -26,7 +26,7 @@
 - [ ] :money_with_wings: [Create Amazing Games with LÖVE!](https://www.udemy.com/course/lua-love/) (Shooting, Top-Down Shooter, Plataformer) by [Kyle Schaub](https://www.youtube.com/@Challacade)
 
 ---
-# Python - Pygame
+# <img src="https://avatars.githubusercontent.com/u/80135573?s=48&v=4" height="48"> Python - Pygame CE
 
 - :scotland: FreeCodeCamp
   - [ ] [Tetris](https://www.youtube.com/watch?v=zfvxp7PgQ6c) (1:40)
@@ -35,7 +35,7 @@
   - [ ] [Stardew Valley Clone](https://www.youtube.com/watch?v=R9apl6B_ZgI) (6:44)
 
 ---
-# C# - MonoGame
+# <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" height="48"> C# - MonoGame
 
 - [ ] :money_with_wings: [Discover Game Development](https://www.udemy.com/course/monogame/) 
 
