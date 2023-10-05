@@ -9,6 +9,7 @@
 # Lua - Love2D
 
 - :scotland: [FreeCodeCamp CS50 playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz)
+  - Repositories on [github](https://github.com/orgs/games50/repositories)
   - [ ] **Pong** (with Lua) - (1:37)
   - [ ] **Flappy Bird** (with Lua) - (2:05)
   - [ ] **Breakout** (Lua Tutorial) - (1:52)
