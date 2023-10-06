@@ -5,7 +5,7 @@
 |:scotland:        | Free    | `:scotland:`         |
 |:money_with_wings:| Paid    | `:money_with_wings:` |
 
----
+
 # <img src="https://love2d.org/w/images/6/68/love-app-0.10.png" height="48"> Lua - Love2D
 
 - :scotland: [FreeCodeCamp CS50 playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz)
@@ -25,7 +25,7 @@
 
 - [ ] :money_with_wings: [Create Amazing Games with LÖVE!](https://www.udemy.com/course/lua-love/) (Shooting, Top-Down Shooter, Plataformer) by [Kyle Schaub](https://www.youtube.com/@Challacade)
 
----
+
 # <img src="https://avatars.githubusercontent.com/u/80135573?s=48&v=4" height="48"> Python - Pygame CE
 
 - :scotland: FreeCodeCamp
@@ -34,13 +34,13 @@
   - [ ] [Duck Hunt](https://www.youtube.com/watch?v=T2pd3KRSoHI) (2:21)
   - [ ] [Stardew Valley Clone](https://www.youtube.com/watch?v=R9apl6B_ZgI) (6:44)
 
----
+
 # <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" height="48"> C# - MonoGame
 
 - [ ] :money_with_wings: [Discover Game Development](https://www.udemy.com/course/monogame/) 
 
----
-# Javascript - HTML5 Canvas
+
+# <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="48"> Javascript - HTML5 Canvas
 
 - [Chris DeLeon](https://www.youtube.com/@HomeTeamGameDev/videos)
   - [ ] :scotland: [Code Your First Game **Pong**](https://www.udemy.com/course/code-your-first-game/)
