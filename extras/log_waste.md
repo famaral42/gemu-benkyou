@@ -12,6 +12,12 @@
 ## 2023
 
 
+
+## 06/out
+
+Container com `ubuntu:22.04` precisando instalar o npm ficou com 314MB vs `node:20.8-bookworm-slim` (debian) com 305MB.  
+Vamos manter a do ubuntu por ser maior compatibilidade
+
 ## 05/out
 
 #### Pygame

@@ -6,6 +6,7 @@
 
 - [Courses](extras/courses.md)
 - [Research](extras/research.md)
+- [Logs](extras/log_waste.md)
 
 
 # License
