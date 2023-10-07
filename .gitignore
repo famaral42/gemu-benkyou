@@ -1,0 +1,38 @@
+# Created by https://www.toptal.com/developers/gitignore/api/lua,python
+# Edit at https://www.toptal.com/developers/gitignore?templates=lua,python
+
+# And we remove a lot of stuff
+# And we add some personal directories
+
+#### Executables ####
+*.exe
+*.out
+*.app
+*.love
+*.AppImage
+
+#### Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+#### Lua ####
+# luarocks build files
+*.src.rock
+*.zip
+*.tar.gz
+
+#### Python ####
+__pycache__/
+*.py[cod]
+*$py.class
+
+#### Distribution / packaging
+.Python
+build/
+dist/
+
+#### PyInstaller
+*.manifest
+*.spec
