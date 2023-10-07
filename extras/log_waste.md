@@ -15,8 +15,11 @@
 
 ## 06/out
 
-Container com `ubuntu:22.04` precisando instalar o npm ficou com 314MB vs `node:20.8-bookworm-slim` (debian) com 305MB.  
-Vamos manter a do ubuntu por ser maior compatibilidade
+Container com `ubuntu:22.04` precisando instalar o npm ficou com **314MB** vs `node:20.8-bookworm-slim` (debian) com **305MB**.  
+Vamos manter a do ubuntu.
+
+Precisamos do npm para o lovejs e libfuse2 para o AppImage do Love2D. Jogos simples rodam, mas sem áudio. É rolo de SDL e jack/alsa/pulse.  
+Talvez deixe o container apenas para _build_ (se funcionar, claro), porque colocar essa bibliotecas para execução aumentam consideravelmente o tamanho do container.
 
 ## 05/out
 
