@@ -4,6 +4,10 @@
 # And we remove a lot of stuff
 # And we add some personal directories
 
+#### Personal
+draft/
+draft
+
 #### Executables ####
 *.exe
 *.out
@@ -36,3 +40,7 @@ dist/
 #### PyInstaller
 *.manifest
 *.spec
+
+#### Trash
+.DS_Store
+._*
