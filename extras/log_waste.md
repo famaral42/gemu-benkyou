@@ -3,6 +3,9 @@
 - [ ] pygame Target Android
 - [ ] monogame Target Linux, testar um jogo qualquer feito por qualquer um
 - [ ] monogame Target Android
+- [x] love2d Target Windows
+- [x] love2d Target Linux
+- [ ] love2d Target Web _WIP_
 - [ ] love2d Target Android
 
 
@@ -11,7 +14,13 @@
 ---
 ## 2023
 
+## 07/out
 
+Thcau container para **executar Love2D**, já precisamos fazer umas configurações avançadas para rodar o jogo, mas sem audio.  
+O **Audio parace ser muito mais enrolado**, rolo com libjack, pulsaudio, alsa...    
+Para executar melhor usar direto o AppImage.
+
+Já para fazer os **builds** em Linux, Windows e Web, talvez ainda use o container, mas só se conseguir fazer o **apk/aab de Android** lá dentro também.
 
 ## 06/out
 
