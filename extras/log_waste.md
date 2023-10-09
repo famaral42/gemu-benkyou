@@ -14,9 +14,17 @@
 ---
 ## 2023
 
+## 08/out
+
+**Gerar o AppImag**e de dentro do **container** também **não** está rolando sem ideias. Vamos abandonar containers para o Love2D.  
+Não será problema de mantaer, afinal, tanto o Love2D como appimagetool rodam de AppImage.  
+E ainda falta o principal, o apk/aab
+E o pygame-ce.. e talvez MonoGame
+
+
 ## 07/out
 
-Thcau container para **executar Love2D**, já precisamos fazer umas configurações avançadas para rodar o jogo, mas sem audio.  
+Tchau container para **executar Love2D**, já precisamos fazer umas configurações avançadas para rodar o jogo, mas sem audio.  
 O **Audio parace ser muito mais enrolado**, rolo com libjack, pulsaudio, alsa...    
 Para executar melhor usar direto o AppImage.
 
