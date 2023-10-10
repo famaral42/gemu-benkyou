@@ -7,9 +7,9 @@ set -euo pipefail
 # ---- INIT ---------------------------------------------------------- #
 CWP="$PWD"
 
-DIR=$(realpath `dirname "$0"`/../tools) # one level above
+DIRTOOLS=$(realpath `dirname "$0"`/../tools) # one level above
 
-mkdir -p $DIR
+mkdir -p $DIRTOOLS
 
 
 # ---- GENERIC DOWNLOAD ---------------------------------------------- #
@@ -19,7 +19,7 @@ function download_generic(){
     local file="$2"
     local executable=true
 
-    cd $DIR
+    cd $DIRTOOLS
 
     if [ -f $file ]; then
         printf "%-25s" "$file"
