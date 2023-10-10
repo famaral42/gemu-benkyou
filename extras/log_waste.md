@@ -5,14 +5,23 @@
 - [ ] monogame Target Android
 - [x] love2d Target Windows
 - [x] love2d Target Linux
-- [ ] love2d Target Web _WIP_
-- [ ] love2d Target Android
+- [x] love2d Target Web
+- [ ] love2d Target Android _WIP_
 
 
 # Journals
 
 ---
 ## 2023
+
+## 09/out
+
+Tentando baixar o Android SDK e NDK sem o Android Studio está bem confuso. E até agora não achei nenhum guia específico de Linux->Android.  
+E os arquivos ficam bem grandes.
+- love-android 265M vs 326M
+- SDK API 31 255M Android 12
+- NDK r21d 1.1GB
+
 
 ## 08/out
 
