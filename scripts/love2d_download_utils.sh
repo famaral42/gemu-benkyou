@@ -5,10 +5,13 @@ set -euo pipefail
 
 
 # ---- INIT ---------------------------------------------------------- #
+# directory contaning directories of games
 CWP="$PWD"
 
-DIRTOOLS=$(realpath `dirname "$0"`/../tools) # one level above
+# tools/ is one level above the script
+DIRTOOLS=$(realpath `dirname "$0"`/../tools) 
 
+# create tools for the AppImages of Love2D, AppImageKit and 32,64zip
 mkdir -p $DIRTOOLS
 
 
@@ -95,10 +98,7 @@ TARGETS=$(dialog --stdout --checklist  "Mark for download" 0 0 0 \
     'AppImageTool' "from AppImageKit"           'on'  \
 )
 
-
 clear
-
-
 
 # ---- ACTIONS ------------------------------------------------------- #
 for target in $TARGETS; do
@@ -117,4 +117,3 @@ for target in $TARGETS; do
             ;;
     esac
 done
-
