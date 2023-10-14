@@ -14,6 +14,16 @@
 ---
 ## 2023
 
+## 13/out
+
+Não vai nem a pau gerar o apk, ou melhor, gerar o apk funciona, ele só não instala sem acusar nenhum erro.  
+Já tentamos várias imagens de sdk/ndk
+- inspiração: https://github.com/Thecoolpeople/love-android-docker
+- fonte: https://github.com/richardtin/docker-android-sdk
+- 
+E vamos olhar novamente as opções de game engines/framewoks, contanto que não seja java, se possível não c++, e o mais importante  
+que seja fácil **exportar para android**
+
 ## 09/out
 
 Tentando baixar o Android SDK e NDK sem o Android Studio está bem confuso. E até agora não achei nenhum guia específico de Linux->Android.  
@@ -21,7 +31,7 @@ E os arquivos ficam bem grandes.
 - love-android 265M vs 326M
 - SDK API 31 255M Android 12
 - NDK r21d 1.1GB
-
+  
 
 ## 08/out
 
