@@ -14,6 +14,17 @@
 ---
 ## 2023
 
+## 18/out
+
+Flertando com outras ga**me engines/frameworks**, em particular essas duas, ambas usam **Lua**:
+- **Defold**, por estar no site do android dev
+- **Solar2D** (ex Corona) por parecer ser possível exportar
+
+Temos os seguintes vetos: Unity, Unreal e Godot... se for para aprender uma Engine, que seja Godot
+E não estamos muito animados de aprender C++ (chuta logo o balde e aprende uma Godot com _GDScript_), já C# parece legal.
+
+Ainda precisamos verificar como exportar para android Pygame-CE e talvez MonoGame para saber se já as descartamos ou não
+
 ## 13/out
 
 Não vai nem a pau gerar o apk, ou melhor, gerar o apk funciona, ele só não instala sem acusar nenhum erro.  
