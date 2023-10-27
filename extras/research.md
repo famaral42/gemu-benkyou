@@ -2,12 +2,12 @@
 
 # :green_book: APK
 
-## :white_medium_small_square: Love2D
+## :black_medium_small_square: Love2D
 
 - [Export your Love 2D game into Android APK with your phone!](https://www.youtube.com/watch?v=DFsSwAhSdVE) (Jul 10, 2022)
 - [https://www.youtube.com/watch?v=vsRnFMMhr58](https://www.youtube.com/watch?v=vsRnFMMhr58) (May 20, 2020)
 
-## :white_medium_small_square: Pygame-CE
+## :black_medium_small_square: Pygame-CE
 
 - **FinFET** [BR](https://www.youtube.com/@FinFETptBR/videos) / [EN](https://www.youtube.com/c/FinFET/videos)
   - youtuber that explains how target android and web
@@ -17,14 +17,14 @@
 # :blue_book: Same game, different languages
 
 
-## :white_medium_small_square:	Classic Games by [Simple Game Tutorials](https://simplegametutorials.github.io/)
+## :black_medium_small_square:  Classic Games by [Simple Game Tutorials](https://simplegametutorials.github.io/)
 
 [Github](https://github.com/simplegametutorials/simplegametutorials)
 
 A lot of classic games made in **Pygame**(python) and **Love2D** (lua)  
 
 
-## :white_medium_small_square:	[InkSaver](https://www.youtube.com/@Inksaver/videos)
+## :black_medium_small_square:  [InkSaver](https://www.youtube.com/@Inksaver/videos)
 
 #### An Adventure Game in C#, Python and Lua
 
@@ -45,19 +45,19 @@ A lot of classic games made in **Pygame**(python) and **Love2D** (lua)
 # :closed_book: Youtubers
 
 
-## :white_medium_small_square:	[TokyoEdTech](https://www.youtube.com/@TokyoEdTech/playlists)
+## :black_medium_small_square:  [TokyoEdTech](https://www.youtube.com/@TokyoEdTech/playlists)
 
 A lot of content with the **turtle module**. And a nice channel with programming content in general
 
 
-## :white_medium_small_square:	[DaFluffyPotato](https://www.youtube.com/@DaFluffyPotato/videos)
+## :black_medium_small_square:  [DaFluffyPotato](https://www.youtube.com/@DaFluffyPotato/videos)
 
 ### Performance
 
 - [Pygame's Performance - What You Need to Know](https://www.youtube.com/watch?v=hnKocNdF9-U)
 - [I simulated 40K blades of realtime grass with Python](https://www.youtube.com/watch?v=3hGcW77M-84)
 
-## :white_medium_small_square:	[StandaloneCoder](https://www.youtube.com/@StandaloneCoder/videos)
+## :black_medium_small_square:  [StandaloneCoder](https://www.youtube.com/@StandaloneCoder/videos)
 
  A lot of pygame 3D stuff
 
