@@ -8,9 +8,13 @@ RUN apt-get -y update && \
 
 RUN apt-get install -y \
     mesa-utils \
+    nodejs \
+    npm \
     ffmpeg \
     git \
     vim
+
+RUN npm -g i love.js
 
 RUN pip install --no-cache-dir \
     'black==25.9' \
